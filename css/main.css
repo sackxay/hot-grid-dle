@@ -37,7 +37,7 @@ figcaption {
   background-color: rgba(0, 0, 0, .5);
   color: white;
   max-width: 15em;
-  border-radius: 8px;
+  border-radius: 1rem;
 }
 
 figcaption p {
